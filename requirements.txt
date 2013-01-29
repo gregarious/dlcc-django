@@ -1,4 +1,10 @@
 Django==1.4.3
-psycopg2==2.4.6
+Fabric==1.5.3
+South==0.7.6
+django-nose==1.1
+nose==1.2.1
+paramiko==1.9.0
+pycrypto==2.6
+pytz==2012j
 wsgiref==0.1.2
 yolk==0.4.3
